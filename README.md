@@ -13,7 +13,7 @@ Ce projet permet la visualisation en temps réel du statut des stations de vélo
 
 ## Project Architecture
 
-![Project Architecture](images/image.png)
+![Project Architecture](image.png)
 
 Description of the project architecture:
 
